@@ -14,8 +14,8 @@ A collection of Agent Skills for AI coding assistants.
 ### Using the Skills CLI (recommended)
 
 ```bash
-npx skills add romanmesicek/skills --skill academic-research
-npx skills add romanmesicek/skills --skill apa-style-citation
+npx skills add romanmesicek/agent-skills --skill academic-research
+npx skills add romanmesicek/agent-skills --skill apa-style-citation
 ```
 
 ### Manual Installation
