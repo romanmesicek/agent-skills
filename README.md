@@ -6,7 +6,7 @@ A collection of Agent Skills for AI coding assistants.
 
 | Skill | Description |
 |-------|-------------|
-| [academic-research](./academic-research/) | Systematic academic literature search with source prioritization and APA 7th edition citations |
+| [academic-research](./academic-research/) | Systematic academic literature search with source prioritization and citations |
 | [apa-style-citation](./apa-style-citation/) | Generate, format, and validate academic citations following APA 7th Edition guidelines |
 
 ## Installation
